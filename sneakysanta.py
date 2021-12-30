@@ -9,7 +9,7 @@ cap = cv2.VideoCapture(0)
 # If we exceed this position we lose
 threshold_position = 220
 
-# Currennt position
+# Curennt position
 currentPos = 0
 theSum = 0
 duration, notCaught = 0, 1
